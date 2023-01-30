@@ -1,1 +1,6 @@
-
+# Lab 1 Notes + Observations
+Initially tried to use Windows Command Prompt but quickly realized that the cp command did not exist, switched over to Windows PowerShell.
+After this, I found out through research online that the instructions to edit the path variables were incorrect and I needed to send the path to the bin of ghdl and gtkwave.
+I managed to get many of the tests working.
+# Lab 1 Results
+![Hello World](
