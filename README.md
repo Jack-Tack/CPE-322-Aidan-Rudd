@@ -10,3 +10,7 @@ I managed to get many of the tests working.
 I managed to get most of the commands to work and found a replacement for the nano command for Windows Powershell. After installing chocolatey and nano as well as editing paths, the nano command would not work so I had to use Notepad to create the file. I was also able to find a replacement for the ifconfig command for Windows as well as the uname command and df.
 # Lab 2 Results
 ![Screenshot2](/Screenshots/Screenshot_Lab_2.png?raw=true "Screenshot2")
+# Lab 3 Notes + Observations
+This lab was much easier for me to get working than the last two. Installing Python on Windows Powershell was as simple as downloading from the Microsoft Store. I also was able to install jdcal, astral, and geopy using pip3. Down below is the screenshot showing off various examples from the iot repository.
+# Lab 3 Results
+![Screenshot3](/Screenshots/Screenshot_Lab_3.png?raw=true "Screenshot3")
