@@ -14,3 +14,8 @@ I managed to get most of the commands to work and found a replacement for the na
 This lab was much easier for me to get working than the last two. Installing Python on Windows Powershell was as simple as downloading from the Microsoft Store. I also was able to install jdcal, astral, and geopy using pip3. Down below is the screenshot showing off various examples from the iot repository.
 # Lab 3 Results
 ![Screenshot3](/Screenshots/Screenshot_Lab3.png?raw=true "Screenshot3")
+# Lab 4 Notes + Observations
+This was the most difficult lab for me as I had to completely reintstall everything to WSL and Ubuntu. Using these made the assignment far easier and I was able to get it done with relative ease compared to before. Down below is my working map and a screenshot of the Ubuntu command line open.
+# Lab 4 Results
+![Screenshot4_1](/Screenshots/Screenshot_Lab_4_1.png?raw=true "Screenshot4_1")
+![Screenshot4_2](/Screenshots/Screenshot_Lab_4_2.png?raw=true "Screenshot4_2")
