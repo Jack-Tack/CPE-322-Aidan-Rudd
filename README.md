@@ -19,3 +19,7 @@ This was the most difficult lab for me as I had to completely reintstall everyth
 # Lab 4 Results
 ![Screenshot4_1](/Screenshots/Screenshot_Lab_4_1.png?raw=true "Screenshot4_1")
 ![Screenshot4_2](/Screenshots/Screenshot_Lab_4_2.png?raw=true "Screenshot4_2")
+# Lab 5 Notes + Observations
+This lab was quite simple as I am now using Ubuntu so I do not need to manually adjust environment variables. I have managed to get the two terminals running with CPU usage present within them. Down below is my screenshot showing both of the terminals and the subcpu.py and pubcpu.py commands working on them.
+# Lab 5 Results
+![Screenshot5](/Screenshots/Screenshot_Lab_5.png?raw=true "Screenshot5")
