@@ -23,3 +23,7 @@ This was the most difficult lab for me as I had to completely reintstall everyth
 This lab was quite simple as I am now using Ubuntu so I do not need to manually adjust environment variables. I have managed to get the two terminals running with CPU usage present within them. Down below is my screenshot showing both of the terminals and the subcpu.py and pubcpu.py commands working on them.
 # Lab 5 Results
 ![Screenshot5](/Screenshots/Screenshot_Lab_5.png?raw=true "Screenshot5")
+# Lab 6 Notes + Observations
+This was the easiest lab for me as it only took around five minutes to complete. I was able to see the output of hello-world and the other programs and I obtained the desired result from using say_hello.py. Down below are the results of this week's lab.
+# Lab 6 Results
+![Screenshot6](/Screenshots/Screenshot_Lab_6.png?raw=true "Screenshot6")
