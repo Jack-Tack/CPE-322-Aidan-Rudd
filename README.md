@@ -27,3 +27,7 @@ This lab was quite simple as I am now using Ubuntu so I do not need to manually 
 This was the easiest lab for me as it only took around five minutes to complete. I was able to see the output of hello-world and the other programs and I obtained the desired result from using say_hello.py. Down below are the results of this week's lab.
 # Lab 6 Results
 ![Screenshot6](/Screenshots/Screenshot_Lab_6.png?raw=true "Screenshot6")
+# Lab 7 Notes + Observations
+This was the hardest lab so far for me as I needed to combine both Powershell and Ubuntu in order to complete both portions of the lab. I achieved the desired results however, so I believe that my hard work and searching the internet paid off in the end.
+# Lab 7 Results
+![Screenshot7](/Screenshots/Screenshot_Lab_7.png?raw=true "Screenshot7")
