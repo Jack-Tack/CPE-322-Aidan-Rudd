@@ -31,3 +31,8 @@ This was the easiest lab for me as it only took around five minutes to complete.
 This was the hardest lab so far for me as I needed to combine both Powershell and Ubuntu in order to complete both portions of the lab. I achieved the desired results however, so I believe that my hard work and searching the internet paid off in the end.
 # Lab 7 Results
 ![Screenshot7](/Screenshots/Screenshot_Lab_7.png?raw=true "Screenshot7")
+# Lab 8 Notes + Observations
+This lab was rather easy to complete as all I needed to do was add in a few charts to my google sheet from the previous week and edit a few files using the nano function.
+# Lab 8 Results
+![Screenshot8_1](/Screenshots/Screenshot_Lab_8_1.png?raw=true "Screenshot8_1")
+![Screenshot8_2](/Screenshots/Screenshot_Lab_8_2.png?raw=true "Screenshot8_2")
