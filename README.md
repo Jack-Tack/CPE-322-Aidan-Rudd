@@ -34,5 +34,5 @@ This was the hardest lab so far for me as I needed to combine both Powershell an
 # Lab 8 Notes + Observations
 This lab was rather easy to complete as all I needed to do was add in a few charts to my google sheet from the previous week and edit a few files using the nano function.
 # Lab 8 Results
-![Screenshot8_1](/Screenshots/Screenshot_Lab_8_1.png?raw=true "Screenshot8_1")
-![Screenshot8_2](/Screenshots/Screenshot_Lab_8_2.png?raw=true "Screenshot8_2")
+![Screenshot8_1](/Screenshots/Screenshot_Lab_8_1 (1).png?raw=true "Screenshot8_1")
+![Screenshot8_2](/Screenshots/Screenshot_Lab_8_2 (1).png?raw=true "Screenshot8_2")
