@@ -36,3 +36,8 @@ This lab was rather easy to complete as all I needed to do was add in a few char
 # Lab 8 Results
 ![Screenshot8_1](/Screenshots/Screenshot_Lab_8_1.png?raw=true "Screenshot8_1")
 ![Screenshot8_2](/Screenshots/Screenshot_Lab_8_2.png?raw=true "Screenshot8_2")
+# Lab 9 Notes + Observations
+This was a rather easy lab to complete as I just needed to install a few packages in Ubuntu. I generated the pinta and gimp pngs that were required of me. The results are shown below.
+# Lab 9 Results
+![Screenshot9_1](/Screenshots/Screenshot_Lab_9_1.png?raw=true "Screenshot9_1")
+![Screenshot9_2](/Screenshots/Screenshot_Lab_9_2.png?raw=true "Screenshot9_2")
