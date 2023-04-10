@@ -41,3 +41,11 @@ This was a rather easy lab to complete as I just needed to install a few package
 # Lab 9 Results
 ![Screenshot9_1](/Screenshots/Screenshot_Lab_9_1.png?raw=true "Screenshot9_1")
 ![Screenshot9_2](/Screenshots/Screenshot_Lab_9_2.png?raw=true "Screenshot9_2")
+# Lab 10 Notes + Observations
+The last lab was also not that difficult, I had to reinstall a few things since I was using my Ubuntu but other than that there was no issues with the lab. All of my results are shown below.
+# Lab 10 Results
+![Screenshot10_1](/Screenshots/Screenshot_Lab_10_1.png?raw=true "Screenshot10_1")
+![Screenshot10_2](/Screenshots/Screenshot_Lab_10_2.png?raw=true "Screenshot10_2")
+![Screenshot10_3](/Screenshots/Screenshot_Lab_10_3.png?raw=true "Screenshot10_3")
+![Screenshot10_4](/Screenshots/Screenshot_Lab_10_4.png?raw=true "Screenshot10_4")
+![Screenshot10_5](/Screenshots/Screenshot_Lab_10_5.png?raw=true "Screenshot10_5")
